@@ -1,6 +1,6 @@
-# Vue Finances (monorepo)
+# Agenda Financeira
 
-Monorepo para API GraphQL e Aplicação Vue desenvolvidos no curso [Vue JS - Guia Completo (Vue CLI, Vue Router, Vuex e GraphQL)](https://www.udemy.com/course/vue-js-guia-completo/?couponCode=VUE_GITHUB) disponível na Udemy.com.
+API GraphQL e Aplicação Vue desenvolvidos no curso [Vue JS - Guia Completo (Vue CLI, Vue Router, Vuex e GraphQL)](https://www.udemy.com/course/vue-js-guia-completo/?couponCode=VUE_GITHUB) disponível na Udemy.com.
 
 ![Vue JS - Guia Completo (Vue CLI, Vue Router, Vuex e GraphQL)](static/course-official-cover.png)
 
@@ -37,9 +37,9 @@ A aplicação é um Gerenciador de Finanças Pessoais que usa as seguintes tecno
   * Let's Encrypt (HTTP/TLS)
   * Git Submodules
 
-## Conteúdo do curso
+## Conteúdo
 
-O curso aborda praticamente tudo sobre o Vue, mas também nas seções finais é desenvolvida uma aplicação completa incluido o Backend (o Gerenciador de Finanças), alguns tópicos abordados:
+O projeto aborda praticamente tudo sobre o Vue,tópicos abordados:
 
 * Dominando os princípios (Diretivas, Instância Vue, Computed Properties, etc)
 * Listas e condicionais (v-for, v-if e v-show)
@@ -52,7 +52,6 @@ O curso aborda praticamente tudo sobre o Vue, mas também nas seções finais é
 * Gerenciamento de estado com Vuex
 * Projeto final (Back + Front, Docker)
 * Build de produção + deploy
-* e muito mais!
 
 Veja a [grade completa na página do curso](https://www.udemy.com/course/vue-js-guia-completo/?couponCode=VUE_GITHUB).
 
@@ -137,11 +136,6 @@ prisma deploy -e ../../.env
 
 ## Contato
 
-Desenvolvido por: [Plínio Naves](https://www.udemy.com/user/plinio-naves/)
-
-* Email: [pliniopjn@hotmail.com](mailto:pliniopjn@hotmail.com)
-* Twitter: [@plinionaves](https://twitter.com/plinionaves)
-* Github: [github.com/plinionaves](https://github.com/plinionaves)
-* Linkedin: [linkedin.com/in/plinionaves/](https://www.linkedin.com/in/plinionaves/)
-
-Participe do nosso grupo no Facebook: [Cursos Plínio Naves](https://www.facebook.com/groups/200267383740594)
+* Email: [luis.paimadv@gmail.com](mailto:luis.paimadv@gmail.com)
+* Github: [github.com/Luispaim](https://github.com/Luispaim)
+* Linkedin: [linkedin.com/Luispaim](https://www.linkedin.com/in/lu%C3%ADs-paim-5aa427188/)
