@@ -73,10 +73,10 @@ cd vue-finances
 ```bash
 [submodule "deps/front"]
 	path = deps/front
-	url = https://github.com/plinionaves/vue-finances-front.git
+	url = https://github.com/Luispaim/vue-finances-front.git
 [submodule "deps/back"]
 	path = deps/back
-	url = https://github.com/plinionaves/vue-finances-back.git
+	url = https://github.com/Luispaim/vue-finances-back.git
 ```
 
 4. Inicialize o submódulos do Git
